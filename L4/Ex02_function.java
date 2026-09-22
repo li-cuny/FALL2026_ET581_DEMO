@@ -7,14 +7,14 @@ public class Ex02_function {
    * parameter
    * function definition
    */
-  static void print_hello() {
+  static void printHello() {
     System.out.println("Hello World");
     // return;
   }
 
   public static void main(String[] args) {
-    print_hello();
-    print_hello();
-    print_hello();
+    printHello();
+    printHello();
+    printHello();
   }
 }
